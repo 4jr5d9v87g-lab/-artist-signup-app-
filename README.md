@@ -1,2 +1,2 @@
 # -artist-signup-app-
-Simple mobile web app for artist signup 
+Simple mobile web app for artist signup. 
